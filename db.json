@@ -5,7 +5,7 @@
       "empresa": "Biblioteca departamental Arnoldo",
       "email": "efracm15@gmail.com",
       "telefono": "3225218797",
-      "notas": "Actualizado",
+      "notas": "Actualizado 3",
       "id": 1
     },
     {
@@ -33,52 +33,12 @@
       "id": 4
     },
     {
-      "nombre": "Nohemy",
-      "empresa": "Biblioteca departamental Arnoldo",
-      "email": "nohe15@gmail.com",
-      "telefono": "3225218797",
-      "notas": "Necesita diseño gráfico",
-      "id": 5
-    },
-    {
       "nombre": "Carlos Manuel",
       "empresa": "e-Learning para todos",
       "email": "elearning@correo.com",
       "telefono": "32456782",
       "notas": "nada por agregar",
       "id": 6
-    },
-    {
-      "nombre": "Alexis Mosquera",
-      "empresa": "AsocING",
-      "email": "alexismoq12@correo.com",
-      "telefono": "3242567809",
-      "notas": "",
-      "id": 7
-    },
-    {
-      "nombre": "Yair",
-      "empresa": "Biblioteca departamental Arnoldo",
-      "email": "elboom17@gmail.com",
-      "telefono": "3225218797",
-      "notas": "necesita probar el formulario",
-      "id": 8
-    },
-    {
-      "nombre": "Tulia",
-      "empresa": "TuliArtesanias",
-      "email": "tuliart@correo.com",
-      "telefono": "321561678",
-      "notas": "desde if",
-      "id": 9
-    },
-    {
-      "nombre": "Hector",
-      "empresa": "H-Soft",
-      "email": "hsoft@correo.com",
-      "telefono": "321367893",
-      "notas": "Necesitas una laptop",
-      "id": 10
     }
   ]
 }
