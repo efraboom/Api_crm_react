@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": "Efrain Cordoba",
+      "empresa": "Biblioteca departamental Arnoldo",
+      "email": "efracm15@gmail.com",
+      "telefono": "3225218797",
+      "notas": "Actualizado",
+      "id": 1
+    },
+    {
+      "nombre": "Lida",
+      "empresa": "Abogado UIB",
+      "email": "lida@gmail.com",
+      "telefono": "3225215637",
+      "notas": "Necesita un producto",
+      "id": 2
+    },
+    {
+      "nombre": "Juan Manuel",
+      "empresa": "UTCH",
+      "email": "juanma07@gmail.com",
+      "telefono": "321567832",
+      "notas": "Necesita aceite para la moto",
+      "id": 3
+    },
+    {
+      "nombre": "Nohemy",
+      "empresa": "Biblioteca departamental Arnoldo",
+      "email": "nohe15@gmail.com",
+      "telefono": "3225218797",
+      "notas": "Necesita diseño gráfico",
+      "id": 4
+    },
+    {
+      "nombre": "Nohemy",
+      "empresa": "Biblioteca departamental Arnoldo",
+      "email": "nohe15@gmail.com",
+      "telefono": "3225218797",
+      "notas": "Necesita diseño gráfico",
+      "id": 5
+    },
+    {
+      "nombre": "Carlos Manuel",
+      "empresa": "e-Learning para todos",
+      "email": "elearning@correo.com",
+      "telefono": "32456782",
+      "notas": "nada por agregar",
+      "id": 6
+    },
+    {
+      "nombre": "Alexis Mosquera",
+      "empresa": "AsocING",
+      "email": "alexismoq12@correo.com",
+      "telefono": "3242567809",
+      "notas": "",
+      "id": 7
+    },
+    {
+      "nombre": "Yair",
+      "empresa": "Biblioteca departamental Arnoldo",
+      "email": "elboom17@gmail.com",
+      "telefono": "3225218797",
+      "notas": "necesita probar el formulario",
+      "id": 8
+    },
+    {
+      "nombre": "Tulia",
+      "empresa": "TuliArtesanias",
+      "email": "tuliart@correo.com",
+      "telefono": "321561678",
+      "notas": "desde if",
+      "id": 9
+    },
+    {
+      "nombre": "Hector",
+      "empresa": "H-Soft",
+      "email": "hsoft@correo.com",
+      "telefono": "321367893",
+      "notas": "Necesitas una laptop",
+      "id": 10
+    }
+  ]
+}
